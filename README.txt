@@ -1,1 +1,1 @@
-Aplicación api rest con un fichero js que sirve de servidor.
+Aplicación api rest con Nodejs, express y Mongoose
